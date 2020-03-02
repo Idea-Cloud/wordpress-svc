@@ -1,0 +1,9 @@
+.bin
+.terraform
+.plugin-cache
+.config
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+.cmd
